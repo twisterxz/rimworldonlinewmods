@@ -1,0 +1,12 @@
+{
+  "ServerName": "International Army RIMWORLD server",
+  "SaveInterval": 10000,
+  "Port": 19019,
+  "Description": null,
+  "IsModsWhitelisted": true,
+  "DisableDevMode": false,
+  "MinutesIntervalBetweenPVP": 0,
+  "ModsDirectory": "mods",
+  "ProtectingNovice": false,
+  "DeleteAbandonedSettlements": false
+}
